@@ -1,4 +1,4 @@
-# 👩‍💻 Hey, I'm Susy! 👋
+### 👩‍💻 Hey, I'm Susy! 👋
 
 **Engineer & Researcher ｜ Tennis Player ｜ Snowboarder**
 
