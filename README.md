@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👩‍💻 Hey, I'm Susy! 👋
+
+**Engineer & Researcher ｜ Tennis Player ｜ Snowboarder**
+
+#### 🔬 Research 💻 Code 🎾 Rally 🏂 Shred 🔁 Repeat.
+
+*From research ideas to code, from tennis courts to snowy mountains—always curious, always exploring.*
+
+**Stay curious. Keep building. Never stop exploring.** ✨
 
 <!--
 **Susy-eng/Susy-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
