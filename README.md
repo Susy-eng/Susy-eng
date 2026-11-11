@@ -8,6 +8,11 @@
 
 **Stay curious. Keep building. Never stop exploring.** ✨
 
+#### GitHub Activity
+
+![My GitHub metrics](./github-metrics.svg)
+
+
 <!--
 **Susy-eng/Susy-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
